@@ -13,7 +13,7 @@ const API_BASE = (() => {
     return "http://127.0.0.1:5000";
   }
   // TODO: replace with your deployed backend URL
-  return "https://YOUR-BACKEND-DOMAIN.example.com";
+  return "https://customer-churn-prediction-beryl-six.vercel.app";
 })();
 
 const form = document.getElementById("churnForm");
