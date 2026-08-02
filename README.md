@@ -10,7 +10,7 @@
 [![AUC--ROC](https://img.shields.io/badge/AUC--ROC-0.8234-brightgreen.svg?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT-red.svg?style=flat-square)](LICENSE)
 
-**🚀 [Live Demo](https://customer-churn-prediction-lorv.vercel.app/)** &nbsp;|&nbsp; **📓 [Notebook](Customer_Churn_Prediction_using_ML.ipynb)** &nbsp;|&nbsp; **🐛 [Report an Issue](../../issues)**
+**🚀 [Live Demo](https://customer-churn-prediction-lorv.vercel.app/)** &nbsp;|&nbsp; **📓 [Notebook](Customer_churn_Prediction/Customer_Churn_Prediction_using_ML.ipynb)** &nbsp;|&nbsp; **🐛 [Report an Issue](../../issues)**
 
 ---
 
